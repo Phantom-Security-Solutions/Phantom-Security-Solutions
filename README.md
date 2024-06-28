@@ -1,5 +1,5 @@
 # Phantom-Security-Solutions
-![Project Logo](https://github.com/Interslice-Inc/Interslice/blob/main/Files/Company_Logo/Interslice_Logo.jpeg)
+![Project Logo](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/Designer.jpeg)
 
 Table of Contents
 =================
