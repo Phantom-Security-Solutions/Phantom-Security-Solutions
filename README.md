@@ -16,16 +16,14 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-Our fictional company, InterSlice, Inc., has been hired to design and protect Cromulent Innovation's cloud infrastructure (also fictitious). For Cromulent Innovations, as a small startup scaling to a larger company, cloud infrastructure provides the greatest elasticity for growth and remote talent acquisition. InterSlice's contract with Cromulent Innovations includes implementing robust cloud security measures, setting up log aggregation (SIEM) components as well as ensuring CIS compliance.  The contract also stipulates a demonstration of the performance of the system when under attack. 
+hantom-Security-Solutions has been contracted to perform a one-time adversary emulation engagement to assess the security posture of SimCorp's cloud systems. The ultimate goal is to uncover vulnerabilities and assess risk, with the possibility of securing a long-term engagement based on the quality of the findings. SimCorp's CTO is concerned about the security of the company's cloud systems, particularly following a previous incident of sensitive data exposure due to a misconfigured employee instance. The engagement aims to identify vulnerabilities and improve threat detection capabilities.
 
 ## Team Members
-Meet the team behind Interslice:
+Meet the team behind Phantom Security Solutions:
 * Ethan Pham [Github](https://github.com/EthanPham03) ! [linkedin Profile](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
 * Brad Baack [Github](https://github.com/bjbaack) ! [linkedin Profile](https://www.linkedin.com/in/bradleybaack/)
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Cody Blahnik [Github](https://github.com/Cody354) ! [LinkedIn](https://www.linkedin.com/in/cody-blahnik-/)
-
-![ICQv](/Files/Company_Logo/ICQv.gif)
 
 
 ## Team Agreement
