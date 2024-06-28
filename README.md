@@ -8,7 +8,6 @@ Table of Contents
   * [Team Members](#team-members)
   * [Team Agreemeent](#team-agreement)
   * [System Selection](#system-selection)
-  * [Employee Handbook](#employee-handbook)
   * [Standard Operating Procedure](#standard-operating-procedure)
   * [Topologies/Visuals](#topologiesvisuals)
   * [Project Management Tool](#project-management-tool)
