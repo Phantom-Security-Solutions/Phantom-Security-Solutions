@@ -51,19 +51,17 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
   
 ## Topologies/Cloud Architecture Design
 Here are some visual representations of Interslice's architecture and topology:
-* [General Topology](/Files/Company_Logo/General_TOP.drawio.png)
-* [Arch Topology](/Files/Company_Logo/Arch_TOP.drawio.png)
-* [Network Infastructure Table](Files/PDF's_Files/networkinfrastructure.pdf)
-* [Attack Architecture Design](Files/PDF's_Files/AttackArchitectture.drawio.png)
+* [General Topology]()
+* [Arch Topology]()
+* [Network Infastructure Table]()
+* [Attack Architecture Design]()
 
 ## Project Management Tool
-We use [Trello](https://trello.com/w/interslice2) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains details such as task description, assignee, due date, and checklist items.
+We use [Trello](https://trello.com/b/q15rh0UJ/code-401-final) to track our progress and tasks. In Trello, we organize tasks into boards, lists, and cards, representing different stages of development. Each card contains details such as task description, assignee, due date, and checklist items.
 
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
-* [SSH Brute Force](/Files/Scripts/bruteforce.py) : This script is a collection of security-related tools, including network scanning, brute-force attack simulation, and file encryption for educational and testing purposes.
-* [SSH Lambda Script](/Files/Scripts/SSHLambda.py) : This script is intended to notify subscribers of the SNS topic about SSH login attempts by sending an alert message with details of the event. Useful for monitoring and security purposes, allowing administrators to be aware of and respond to potential unauthorized access attempts.
-
+*
 ## Presentation Link
-View our live project presentation [here](https://zoom.us/rec/play/qTvQ0_XLpPA6Whj41MPtBK3cWpbVPZsa7g8ggtI63uKswoHHTxt1IMgbtz5Xbtg6xTzyRfM18IsIAYh8.70IZgwGRIXTUklh9?canPlayFromShare=true&from=share_recording_detail&continueMode=true&componentName=rec-play&originRequestUrl=https%3A%2F%2Fzoom.us%2Frec%2Fshare%2FSWynSdDfz0lfPqQ8ffyVXBo4pVy99BCs0YhXRMkj3hJBV3acIHjfJsSCnvr43Cxd.PLsEBRM0_BZsVXdV) for an overview of Interslice's features and functionalities.<br>
-Take a view of our project presentation slideshow [here](/Files/PDF's_Files/InterSlice_Presentation.pdf)
+View our live project presentation [here]() for an overview of Interslice's features and functionalities.<br>
+Take a view of our project presentation slideshow [here]()
