@@ -16,7 +16,7 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-hantom-Security-Solutions has been contracted to perform a one-time adversary emulation engagement to assess the security posture of SimCorp's cloud systems. The ultimate goal is to uncover vulnerabilities and assess risk, with the possibility of securing a long-term engagement based on the quality of the findings. SimCorp's CTO is concerned about the security of the company's cloud systems, particularly following a previous incident of sensitive data exposure due to a misconfigured employee instance. The engagement aims to identify vulnerabilities and improve threat detection capabilities.
+Phantom Security Solutions has been contracted to perform a one-time adversary emulation engagement to assess the security posture of SimCorp's cloud systems. The ultimate goal is to uncover vulnerabilities and assess risk, with the possibility of securing a long-term engagement based on the quality of the findings. SimCorp's CTO is concerned about the security of the company's cloud systems, particularly following a previous incident of sensitive data exposure due to a misconfigured employee instance. The engagement aims to identify vulnerabilities and improve threat detection capabilities.
 
 ## Team Members
 Meet the team behind Phantom Security Solutions:
