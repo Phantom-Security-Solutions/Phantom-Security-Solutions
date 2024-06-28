@@ -21,8 +21,8 @@ Our fictional company, InterSlice, Inc., has been hired to design and protect Cr
 
 ## Team Members
 Meet the team behind Interslice:
-* [Ethan Pham Github](https://github.com/EthanPham03)-[linkedin Profile](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
-* [Brad Baack Github](https://github.com/bjbaack)-[linkedin Profile](https://www.linkedin.com/in/bradleybaack/)
+* Ethan Pham [Github](https://github.com/EthanPham03) ! [linkedin Profile](https://www.linkedin.com/in/ethan-pham-8a9a622b3/)
+* Brad Baack [Github](https://github.com/bjbaack) ! [linkedin Profile](https://www.linkedin.com/in/bradleybaack/)
 * Julian Camilo Peña [Github](https://github.com/julianp91) ! [LinkedIn](https://www.linkedin.com/in/julian-pena-bb8643267/)
 * Cody Blahnik [Github](https://github.com/Cody354) ! [LinkedIn](https://www.linkedin.com/in/cody-blahnik-/)
 
