@@ -30,14 +30,7 @@ Meet the team behind Phantom Security Solutions:
 You can view our Team Agreement [here](/Files/PDF's_Files/Team_Agreement.pdf). This agreement outlines guidelines for communication, collaboration, decision-making processes, and conflict resolution within the team.
 
 ## System Selection
-We selected the technology stack for Interslice based on the following criteria:
-- **Scalability**: Choose scalable frameworks and tools to accommodate future growth and user demands.
-- **Performance**: Prioritized technologies are known for their efficiency and speed to ensure optimal system performance.
-- **Ease of Use**: Selected user-friendly tools to facilitate development and maintenance processes.
-- **Community Support**: Preferred technologies with active developer communities for ongoing support and updates.
-
-View the full System Selection [here](/Files/PDF's_Files/System_selection.pdf)
-
+  * [System Selection](https://docs.google.com/document/d/1fTOqNn3IbCgDaKluCwL_uPAomdRKDX1yil3ZFo9pDVo/edit?usp=sharing)
 
 ## Standard Operating Procedure
 We follow a set of Standard Operating Procedures (SOPs) to maintain consistency and efficiency within the project:
@@ -45,7 +38,11 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 <summary>Documents</summary>
 
   * [Compliance Documentation: Cloud Compliance](/Files/PDF's_Files/Cybersecurity_Compliance.pdf) 
-  * [Cloud Security Incident Response Plan for Cromulent Innovations](/Files/PDF's_Files/Incident_Response_Plan.pdf) 
+  * [Cloud Security Incident Response Plan for Cromulent Innovations](/Files/PDF's_Files/Incident_Response_Plan.pdf)
+  * [Enumeration](https://docs.google.com/document/d/1bysoSzhMOO0LP_XIhI7dOVxEOLPVmZAWQgHzk7xpCvA/edit?usp=sharing)
+  * [Exploitation](https://docs.google.com/document/d/1socjDn2mgFh-Af3Fhepb4AcRkkyU1QhIOCQauDmIc_8/edit?usp=sharing)
+  * [Pyton Tool](https://docs.google.com/document/d/1PAU8-_u5LkVsvlLccPbCyJq16CXh_Dpm5Js4y2F2OrM/edit?usp=sharing)
+  * [Reporting](https://docs.google.com/document/d/1OLckwpJpHlOVhYxtrDpw7oepgwU7ZSv2-xXHDortNMc/edit?usp=sharing)
 
 </details>
   
