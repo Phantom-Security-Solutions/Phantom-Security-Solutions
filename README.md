@@ -39,8 +39,9 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
 <details>
 <summary>Documents</summary>
 
-  * [Compliance Documentation: Cloud Compliance](/Files/PDF's_Files/Cybersecurity_Compliance.pdf) 
-  * [Cloud Security Incident Response Plan for Cromulent Innovations](/Files/PDF's_Files/Incident_Response_Plan.pdf) 
+  * [Enumeration SOP](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/SOP%201_%20Enumeration%20SOP.pdf) 
+  * [Exploitation SOP](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/SOP%202_%20Exploitation%20SOP.pdf)
+  * [Custom Python Tool SOP](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/SOP%203_%20Custom%20Python%20Tool%20SOP.pdf) 
 
 </details>
   
