@@ -32,7 +32,7 @@ You can view our Team Agreement [here](https://github.com/Phantom-Security-Solut
 
 ## System Selection
 
-You can view what system selections we decided to go with here [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/ops-201d12%20Team%20Phamtom%20System%20Selection.pdf) but we selected the technology stack for Phantom Security Solutions based on the following criteria:
+You can view what system selections we decided to go with [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/ops-201d12%20Team%20Phamtom%20System%20Selection.pdf) but we selected the technology stack for Phantom Security Solutions based on the following criteria:
 
 - **Vulnerability Assessment**: The chosen tools must effectively identify and assess vulnerabilities in the target network and cloud systems.
 - **Compatibility**: Tools must be compatible with the target environment and able to seamlessly integrate with each other for a streamlined workflow.
