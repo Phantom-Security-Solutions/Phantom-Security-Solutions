@@ -27,7 +27,7 @@ Meet the team behind Phantom Security Solutions:
 
 
 ## Team Agreement
-You can view our Team Agreement [here](/Files/PDF's_Files/Team_Agreement.pdf). This agreement outlines guidelines for communication, collaboration, decision-making processes, and conflict resolution within the team.
+You can view our Team Agreement [here]([/Files/PDF's_Files/Team_Agreement.pdf](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/401%20Team%20agrement.pdf)). This agreement outlines guidelines for communication, collaboration, decision-making processes, and conflict resolution within the team.
 
 ## System Selection
 We selected the technology stack for Interslice based on the following criteria:
