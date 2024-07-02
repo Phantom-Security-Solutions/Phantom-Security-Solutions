@@ -16,7 +16,8 @@ Table of Contents
 <!--te-->
 
 ## Project Overview
-Phantom Security Solutions has been contracted to perform a one-time adversary emulation engagement to assess the security posture of SimCorp's cloud systems. The ultimate goal is to uncover vulnerabilities and assess risk, with the possibility of securing a long-term engagement based on the quality of the findings. SimCorp's CTO is concerned about the security of the company's cloud systems, particularly following a previous incident of sensitive data exposure due to a misconfigured employee instance. The engagement aims to identify vulnerabilities and improve threat detection capabilities.
+
+Phantom Security Solutions has been engaged to conduct a comprehensive adversary emulation assessment of SimCorp's cloud systems. The primary objective is to identify vulnerabilities and evaluate risks, with the potential to secure a long-term partnership contingent on the depth and quality of our findings. This engagement is driven by concerns from SimCorp's CTO regarding the security of their cloud infrastructure, following a previous incident involving sensitive data exposure due to a misconfigured employee instance. Our goal is to uncover vulnerabilities, enhance threat detection capabilities, and fortify SimCorp's overall security posture
 
 ## Team Members
 Meet the team behind Phantom Security Solutions:
@@ -30,8 +31,15 @@ Meet the team behind Phantom Security Solutions:
 You can view our Team Agreement [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/401%20Team%20agrement.pdf). This agreement outlines guidelines for communication, collaboration, decision-making processes, and conflict resolution within the team.
 
 ## System Selection
-We selected the technology stack for Phantom Security Solutions based on the following criteria:
 
+You can view what system selections we decided to go with here [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/ops-201d12%20Team%20Phamtom%20System%20Selection.pdf) but we selected the technology stack for Phantom Security Solutions based on the following criteria:
+
+- **Vulnerability Assessment**: The chosen tools must effectively identify and assess vulnerabilities in the target network and cloud systems.
+- **Compatibility**: Tools must be compatible with the target environment and able to seamlessly integrate with each other for a streamlined workflow.
+- **Versatility**: The tools should offer a wide range of functionalities, from enumeration and scanning to exploitation and post-exploitation activities.
+- **Customization**: The ability to develop and integrate custom scripts or tools to address unique challenges and exploit scenarios specific to the target environment.
+- **Reliability**: Tools must be reliable and well-supported, ensuring they perform as expected during the engagement.
+- **Security**: Tools must support secure connections and data handling to maintain the confidentiality and integrity of our testing activities.
 
 
 ## Standard Operating Procedure
