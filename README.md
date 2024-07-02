@@ -30,18 +30,6 @@ Meet the team behind Phantom Security Solutions:
 ## Team Agreement
 You can view our Team Agreement [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/401%20Team%20agrement.pdf). This agreement outlines guidelines for communication, collaboration, decision-making processes, and conflict resolution within the team.
 
-## System Selection
-
-You can view what system selections we decided to go with [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/ops-201d12%20Team%20Phamtom%20System%20Selection.pdf) but we selected the technology stack for Phantom Security Solutions based on the following criteria:
-
-- **Vulnerability Assessment**: The chosen tools must effectively identify and assess vulnerabilities in the target network and cloud systems.
-- **Compatibility**: Tools must be compatible with the target environment and able to seamlessly integrate with each other for a streamlined workflow.
-- **Versatility**: The tools should offer a wide range of functionalities, from enumeration and scanning to exploitation and post-exploitation activities.
-- **Customization**: The ability to develop and integrate custom scripts or tools to address unique challenges and exploit scenarios specific to the target environment.
-- **Reliability**: Tools must be reliable and well-supported, ensuring they perform as expected during the engagement.
-- **Security**: Tools must support secure connections and data handling to maintain the confidentiality and integrity of our testing activities.
-
-
 ## Standard Operating Procedure
 We follow a set of Standard Operating Procedures (SOPs) to maintain consistency and efficiency within the project:
 <details>
@@ -52,7 +40,18 @@ We follow a set of Standard Operating Procedures (SOPs) to maintain consistency 
   * [Custom Python Tool SOP](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/SOP%203_%20Custom%20Python%20Tool%20SOP.pdf) 
 
 </details>
-  
+
+## System Selection
+
+You can view what system selections we decided to go with [here](https://github.com/Phantom-Security-Solutions/Phantom-Security-Solutions/blob/main/Photos/ops-201d12%20Team%20Phamtom%20System%20Selection.pdf) but we selected the technology stack for Phantom Security Solutions based on the following criteria:
+
+- **Vulnerability Assessment**: The chosen tools must effectively identify and assess vulnerabilities in the target network and cloud systems. Using Nmap, Nessus, and Nikto.
+- **Versatility**: The tools we used offer a wide range of functionalities, from enumeration and scanning to exploitation and post-exploitation activities.
+- **Customization**: The ability to develop and integrate custom scripts or tools to address unique challenges and exploit scenarios specific to the target environment.
+- **Reliability**: Tools must be reliable and well-supported, ensuring they perform as expected during the engagement.
+- **Security**: Tools must support secure connections and data handling to maintain the confidentiality and integrity of our testing activities.
+
+
 ## Topologies/Cloud Architecture Design
 Here are some visual representations of SimCorp architecture and topology:
 
