@@ -1,23 +1,43 @@
 import nmap
 import sys
-from msfrpc import MsfRpcClient
+import msgpack
+import socket
+
+class MetasploitRPC:
+    def __init__(self, password, host='127.0.0.1', port=55553):
+        self.host = host
+        self.port = port
+        self.token = None
+        self.client = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        self.client.connect((self.host, self.port))
+        self.login(password)
+
+    def login(self, password):
+        response = self.call('auth.login', [password])
+        if response.get('result') == 'success':
+            self.token = response.get('token')
+        else:
+            raise Exception("Authentication failed")
+
+    def call(self, method, args=[]):
+        if self.token:
+            args = [self.token] + args
+        msg = msgpack.packb({"method": method, "args": args})
+        self.client.sendall(msg)
+        response = self.client.recv(4096)
+        return msgpack.unpackb(response, raw=False)
+
+    def get_vulnerabilities(self, host, port):
+        return self.call('db.vulns', [host, port])
 
 def parse_nmap_xml(xml_file):
     nm = nmap.PortScanner()
     nm.analyse_nmap_xml_scan(open(xml_file).read())
     return nm
 
-def get_vulnerabilities(msf_client, host, port):
-    try:
-        vulns = msf_client.call('db.vulns', [host, port])
-        return vulns['vulns']
-    except Exception as e:
-        print(f"An error occurred: {e}")
-        return []
-
 def main(xml_file):
     # Connect to Metasploit
-    client = MsfRpcClient('your_password', port=55553)
+    client = MetasploitRPC('your_password')
 
     # Parse Nmap XML file
     nmap_scan = parse_nmap_xml(xml_file)
@@ -27,10 +47,10 @@ def main(xml_file):
         for proto in nmap_scan[host].all_protocols():
             for port in nmap_scan[host][proto].keys():
                 print(f"Checking port: {port}/{proto}")
-                vulnerabilities = get_vulnerabilities(client, host, port)
-                if vulnerabilities:
+                vulnerabilities = client.get_vulnerabilities(host, port)
+                if vulnerabilities.get('vulns'):
                     print(f"Vulnerabilities for {host}:{port}")
-                    for vuln in vulnerabilities:
+                    for vuln in vulnerabilities['vulns']:
                         print(f"  Name: {vuln['name']}, Info: {vuln['info']}")
                 else:
                     print(f"No vulnerabilities found for {host}:{port}")
