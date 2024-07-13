@@ -61,7 +61,7 @@ We use [Trello](https://trello.com/b/q15rh0UJ/code-401-final) to track our progr
 
 ## Scripts
 We have a collection of scripts used in the project for various purposes:
-*
+*This script scan with nmap using the flag -vuln to find vulnerabilities, then it parses the scan results to metaspploit, searching their data base with the information from teh scan and attept the exploits found. [PenTesting script](https://github.com/Cody354/Pen-Testing-scripts/blob/main/NMAP_vuln_scan.py) 
 ## Presentation Link
 View our live project presentation [here]() for an overview of Phantom Security Solutions features and functionalities.<br>
 Take a view of our project presentation slideshow [here]()
