@@ -51,6 +51,8 @@ You can view what system selections we decided to go with [here](https://github.
 - **Reliability**: Tools must be reliable and well-supported, ensuring they perform as expected during the engagement.
 - **Security**: Tools must support secure connections and data handling to maintain the confidentiality and integrity of our testing activities.
 
+##Vulnerability Assessment
+[NMAP Report](https://cody354.github.io/Report/) 
 
 ## Topologies/Cloud Architecture Design
 Here are some visual representations of SimCorp architecture and topology:
